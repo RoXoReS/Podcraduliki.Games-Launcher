@@ -33,3 +33,8 @@
 ## 📌 Присоединяйтесь!
 **Podcraduliki.Games Launcher** — это не просто лаунчер, а целая экосистема.  
 Следите за развитием проекта и открывайте новые горизонты вместе с нами!  
+
+[![Download Launcher](https://img.shields.io/badge/Скачать-лаунчер-36BCF7?style=for-the-badge&logo=windows)](https://github.com/RoXoReS/Podcraduliki.Games-Launcher/releases/tag/Beta)
+
+
+[![Discord](https://img.shields.io/badge/Присоединиться-в%20Discord-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/UEeRgTKu) 
