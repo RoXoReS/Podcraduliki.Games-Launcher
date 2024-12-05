@@ -1,4 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%24718611&lines=Podcraduliki.Games+Launcher)](https://git.io/typing-svg)
+<div align="center">
+    <h1 style="font-size: 67 em;"><img src="https://readme-typing-svg.herokuapp.com?color=%24718611&lines=Podcraduliki.Games+Launcher" alt="Typing SVG"></h1
+</div>
 
 ---
 
