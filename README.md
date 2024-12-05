@@ -2,7 +2,7 @@
 
 ---
 
-## Что такое Podcraduliki.Games Launcher?
+## ❔ Что такое Podcraduliki.Games Launcher?
 
 **Podcraduliki.Games Launcher** — это уникальный игровой лаунчер, созданный для настоящих фанатов сквада **Podcraduli**.  
 Разработанный **RoXoR. Prod**, лаунчер является продуктом команды **Podcraduli** и представляет собой удобный инструмент для установки, запуска игр и сборок для Minecraft-серверов от нашей команды.
